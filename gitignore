@@ -1,0 +1,16 @@
+# Ignorar el archivo persistence.xml
+
+# Ignorar archivos de construcción
+/target/
+/bin/
+/build/
+
+# Ignorar configuraciones de IDE (Eclipse, IntelliJ, etc.)
+.idea/
+/*.iml
+.vscode/
+.settings
+
+# Ignorar logs y otros archivos temporales
+*.log
+*.tmp
