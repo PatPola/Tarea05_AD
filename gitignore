@@ -1,5 +1,5 @@
 # Ignorar el archivo persistence.xml
-
+src/main/resources/META-INF/persistence.xml
 # Ignorar archivos de construcción
 /target/
 /bin/
